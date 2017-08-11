@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SPEEDOMETER</string>
+    <string name="banner_home_footer">ca-app-pub-6121745810719144/7714169111</string>
+    <string name="interstitial_full_screen">ca-app-pub-6121745810719144/9190902315</string>
+    <string name="gps_network_not_enabled">Please enable your gps to navigate.</string>
+    <string name="open_location_settings">Yes</string>
+    <string name="Cancel">No</string>
+    <string name="switch_to_gps">Show GPS Speed</string>
+    <string name="high">HIGH</string>
+    <string name="average">Average</string>
+    <string name="low">LOW</string>
+    <string name="gps_speed">GPS SPEED</string>
+    <string name="switch_to_sensor">Show Sensor Speed</string>
+</resources>

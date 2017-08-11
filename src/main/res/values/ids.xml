@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="waiting_text" type="id">Please wait while the GPS detect your moving speed.</item>
+</resources>
